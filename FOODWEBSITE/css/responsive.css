@@ -1,0 +1,225 @@
+@media only screen and (max-width: 991px) {
+    #home , #about , #menu , #services{
+        background-color: #1d1c29;
+    }
+    /* #home , #about , #menu , #services{
+        text-align: center;
+    } */
+    /*  home responsive */
+    .home-written-content{
+        margin: 11.5em 0;
+        margin-left: 3em;
+    }
+    /* .home-written-content-title h1{
+        margin: 2em 0;
+    }
+    .home-written-content-para p{
+        margin: 2em 0;
+    } */
+    .home-image{
+        margin-left: 2em;
+        margin-top: 1.5em;
+    }
+    .home-image img{
+        margin: 4em 0;
+        width: 23em;
+    }
+    /*  home responsive */
+
+    /* about responsive */
+    .about-heading h2{
+        margin-top: 0.1em;
+    }
+    .about-image img{
+        margin-top: 6em;
+        margin-left: -1em;
+        width: 20em;
+        height: 24em;
+    }
+    .about-written-content{
+        margin-top: 5em;
+    }
+    .about-written-content-title h1{
+        margin-left: -4em;
+        /* font-size: 18px; */
+    }
+    .about-written-content-para p{
+        margin-left: -7.5em;
+        /* font-size: 12px; */
+    }
+    .about-written-content-button a{
+        /* letter-spacing: none; */
+        margin-left: -7.5em;
+        font-size: 1em;
+    }
+    /* about responsive */
+
+    /* menu responsive */
+    .menu-image img{
+        width: 7em;
+    }
+    .menu-image{
+        margin-bottom: 2em;
+    }
+    .menu-heading h2{
+        margin-top: 1em;
+    }
+    /* menu responsive */
+
+    /* services responsive */
+    .services-heading h2{
+        margin-top: 3em;
+    }
+    .services-image img{
+        margin-top: 2em;
+    }
+    /* services responsive */
+
+    #contact h4{
+        margin: 5px 0 0 0;
+    }
+    .contact-heading{
+        margin-bottom: 4em;
+    }
+    #contact{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 767px){
+     #home , #about , #menu , #services{
+        background-color: #1d1c29;
+        text-align: center;
+    }
+    /* home responsive */
+    
+    .home-written-content-title h1{
+        margin-bottom: 1em;
+    }
+    .home-written-content-para p{
+        margin-bottom: 2em;
+    }
+
+    .home-written-content{
+        margin-top: 10em;
+        margin-right: 3em;
+    }
+    .home-image img{
+        margin-top: -6em;
+        margin-right: 2em;
+    }
+    /* home responsive */
+
+    /* about responsive */
+    .about-image img{
+        margin-top: 6em;
+        margin-left: 2em;
+        width: 20em;
+        height: 21em;
+        margin-top: 2.5em;
+    }
+    .about-written-content{
+        margin-left: 12em;
+    }
+    .about-heading h2{
+        margin-top: 1.7em;
+    }
+    .about-written-content-title h1{
+        margin-bottom: 1.5em;
+    }
+    .about-written-content-para p{
+        margin-bottom: 3em;
+    }
+    /* about responsive */
+
+    #contact h4{
+        margin: 2px 0 0 0;
+    }
+    .contact-heading{
+        margin-bottom: 4em;
+    }
+    #contact{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 444px){
+    .home-image img{
+        /* margin-top: -6em;
+        margin-right: 2em; */
+        width: 19em;
+    }
+    .home-written-content-title h1{
+        margin-bottom: 1em;
+    }
+    .home-written-content-para p{
+        margin-bottom: 2em;
+    }
+    .about-image img{
+        margin-left: 1.6em;
+        width: 18em;
+        height: 18em;
+        margin-top: 2.5em;
+    }
+    .about-heading h2{
+        margin-top: 1.3em;
+    }
+    .about-written-content-title h1{
+        margin-bottom: 1.5em;
+    }
+    .about-written-content-para p{
+        margin-bottom: 3em;
+    }
+
+    #contact h4{
+        margin: 1px 0 0 0;
+    }
+    .contact-heading{
+        margin-bottom: 4em;
+    }
+    #contact{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 397px){
+    #home , #about , #menu , #services{
+        background-color: #1d1c29;
+        text-align: center;
+    }
+    .home-written-content-title h1{
+        margin-bottom: 1em;
+    }
+    .home-written-content-para p{
+        margin-bottom: 2em;
+    }
+    .home-image img{
+        margin-left: 0.8em;
+        width: 15.5em;
+        margin-top: -6em;
+    }
+    .about-image img{
+        margin-left: 1em;
+        width: 14.5em;
+        height: 15em;
+        margin-top: 3em;
+    }
+    .about-heading h2{
+        margin-top: 1.3em;
+    }
+    .about-written-content-title h1{
+        margin-bottom: 1.5em;
+    }
+    .about-written-content-para p{
+        margin-bottom: 3em;
+    }
+    #contact h4{
+        margin: 0.2px 0 0 0;
+    }
+    .contact-heading{
+        margin-bottom: 4em;
+    }
+    #contact{
+        text-align: center;
+    }
+}
